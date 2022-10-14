@@ -1,1 +1,1 @@
-Indagando Python
+Viendo un tutorial. Indagando Python
